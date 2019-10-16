@@ -1,0 +1,11 @@
+To start open terminal and in the root directory of this project run 'live-server'
+
+Opens to '127.0.0.1:8080' by default, can change port with --port=1234
+
+Using:
+  https://github.com/justadudewhohacks/face-api.js
+  https://www.npmjs.com/package/live-server
+
+TODO:
+  Build c++ from api to make it a lot faster
+  Add recognition of person
